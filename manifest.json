@@ -1,0 +1,10 @@
+{
+  "id": "obsibrain",
+  "name": "Obsibrain",
+  "version": "2.0.0",
+  "minAppVersion": "1.13.7",
+  "description": "Official plugin for the Obsibrain template.",
+  "author": "Pierre Mouchan",
+  "authorUrl": "https://github.com/pierremouchan",
+  "isDesktopOnly": false
+}
